@@ -1,7 +1,7 @@
 YAML
 
 ---
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
 title: My Blog Home
 ---
 
