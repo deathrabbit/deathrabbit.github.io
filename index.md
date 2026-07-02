@@ -1,7 +1,7 @@
 YAML
 
 ---
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 title: My Blog Home
 ---
 
